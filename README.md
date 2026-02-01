@@ -139,7 +139,7 @@ Before you begin, ensure you have installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/hatim0202/task-manager.git
 
 # Navigate to project directory
 cd task-manager
